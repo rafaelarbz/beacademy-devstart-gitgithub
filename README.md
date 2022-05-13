@@ -9,3 +9,6 @@ Comandos úteis do Git e GitHub
 ### Funcionalidades
 - git config : Permite atribuir configurações ao Git
 - git status : Verifica as condições do diretório/versionamento
+- git init : Inicializa o repositório
+> - git add : Adiciona arquivo ao 
+> - git add . : Adiciona todos os arquivos
