@@ -7,7 +7,7 @@ Este repositório tem o propósito de armazenar os entregáveis solicitados dura
 ## Git e GitHub
 Comandos úteis do Git e GitHub
 
-### Funcionalidades
+## Funcionalidades
 - git config : Permite atribuir configurações ao Git;
 - git status : Verifica as condições do diretório/versionamento;
 - git init : Inicializa o repositório;
@@ -22,3 +22,4 @@ Comandos úteis do Git e GitHub
   - git branch  *-d* : Remove ramificação;
 - git checkout : Permite alternar entre ramificações;
   - git checkout  *-b* : Cria e acessa nova ramificação;
+- git merge : Permite integrar/mesclar ramificações;
