@@ -23,4 +23,4 @@ Este repositório tem o propósito de armazenar comandos úteis do Git e GitHub.
 - git clone : Permite clonar um repositório;
 - git remote  *-v* : Exibe diretórios remotos;
 - git push : Envia alterações ao repositório;
-- 
+- git pull : Busca e baixa alterações no repositório para atualizar o conteúdo, alinhando o versionamento.
