@@ -24,3 +24,8 @@ Este repositório tem o propósito de armazenar comandos úteis do Git e GitHub.
 - git remote  *-v* (exibe diretórios remotos)
 - git push (envia alterações ao repositório)
 - git pull (busca e baixa alterações no repositório para atualizar o conteúdo, alinhando o versionamento)
+- git stash (arquiva alterações não *commitadas*)
+- git stash pop (restaura alterações não *commitadas*)
+- git stash list (lista stashs)
+- git stash pop stash@{1} (executa stash especifico)
+- git revert (reverte alterações, criando um novo commit com as alterações especificadas invertidas)
