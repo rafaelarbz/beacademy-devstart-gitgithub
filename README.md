@@ -8,8 +8,8 @@ Este repositório tem o propósito de armazenar comandos úteis do Git e GitHub.
 - git config : Permite atribuir configurações ao Git;
 - git status : Verifica as condições do diretório/versionamento;
 - git init : Inicializa o repositório;
-- git add : Adiciona alteração ao repositório;
-  - git *add  .*  : Adiciona **todas** as alterações ao repositório;
+- git add : Prepara alterações para adicionar ao repositório;
+  - git *add  .*  : Prepara **todas** as alterações para serem adicionadas ao repositório;
 - git rm : O arquivo será adicionado à  *staging area*  com o status  *deleted*  e também será removido do diretório;
   - git rm  *--cached* : Leva até a  *staging area*  a informação de que o arquivo deve ser deletado, mas o arquivo físico continua no diretório;
 - git commit  *-m* : Possibilita adicionar mensagem ao  *commit*  a respeito das alterações realizadas;
@@ -20,3 +20,7 @@ Este repositório tem o propósito de armazenar comandos úteis do Git e GitHub.
 - git checkout : Permite alternar entre ramificações;
   - git checkout  *-b* : Cria e acessa nova ramificação;
 - git merge : Permite integrar/mesclar ramificações;
+- git clone : Permite clonar um repositório;
+- git remote  *-v* : Exibe diretórios remotos;
+- git push : Envia alterações ao repositório;
+- 
