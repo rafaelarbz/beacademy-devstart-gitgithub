@@ -11,10 +11,10 @@ Comandos úteis do Git e GitHub
 - git status : Verifica as condições do diretório/versionamento;
 - git init : Inicializa o repositório;
 - git add : Adiciona alteração ao repositório;
-  - git add  . : Adiciona **todas** as alterações ao repositório;
+  - git *add  .*  : Adiciona **todas** as alterações ao repositório;
 - git rm : O arquivo será adicionado à  *staging area*  com o status  *deleted*  e também será removido do diretório;
   - git rm  *--cached* : Leva até a  *staging area*  a informação de que o arquivo deve ser deletado, mas o arquivo físico continua no diretório;
-- git commit -m : Possibilita adicionar mensagem ao  *commit*  a respeito das alterações realizadas;
+- git commit  *-m* : Possibilita adicionar mensagem ao  *commit*  a respeito das alterações realizadas;
 - git log : Exibe o histórico de  *commits*;
 - git branch : Lista a ramificação disponível;
   - git branch  *nome_da_branch* : Cria ramificação;
