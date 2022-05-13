@@ -6,6 +6,7 @@ Este repositório tem o propósito de armazenar os entregáveis solicitados dura
 
 ## Git e GitHub
 Comandos úteis do Git e GitHub
+
 ### Funcionalidades
 - git config : Permite atribuir configurações ao Git;
 - git status : Verifica as condições do diretório/versionamento;
